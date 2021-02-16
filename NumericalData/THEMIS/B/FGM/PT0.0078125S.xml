@@ -34,7 +34,8 @@
       </InformationURL>
       <PriorID>spase://VMO/NumericalData/THEMIS-B/FGM/PT0.0078125S</PriorID>
       <PriorID>spase://VMO/NumericalData/THEMIS/B/FGM/PT0.0078125S</PriorID>
-        <PriorID>spase://VSPO/NumericalData/THEMIS/B/FGM/PT0.0078125S</PriorID>
+      <PriorID>spase://VSPO/NumericalData/THEMIS/B/FGM/PT0.0078125S</PriorID>
+      <PriorID>spase://NASA/NumericalData/THEMIS/B/FGM/PT0.0078125S</PriorID>
     </ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF/CDAWeb</RepositoryID>
