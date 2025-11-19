@@ -2,7 +2,10 @@
 [![SPASE Push Validation](https://github.com/hpde/DLR/actions/workflows/validate-push.yml/badge.svg)](https://github.com/hpde/DLR/actions/workflows/validate-push.yml)
 
 # DLR
-SPASE resource descriptions with the Deutsches Zentrum für Luft- und Raumfahrt  (DLR) naming authority.
+
+Deutsches Zentrum für Luft- und Raumfahrt (DLR)
+
+SPASE resource descriptions with the DLR naming authority.
 
 # How to Use This Repository
 
@@ -32,12 +35,12 @@ You can jump to the last step by clicking "Export" on the list of steps on the l
 
 The easiest way to load a description into the SPASE Metadata Editor is to find the 
 landing page for a resource description by replacing the "spase://" in the 
-SPASE Resource ID with "https://hpde.io/". For example, change
+SPASE Resource ID with "https://spase-metadata.org". For example, change
 
     spase://ESA/NumericalData/PROBA2/LYRA/Flarelist/PT24H
 
 to
-    https://hpde.io/ESA/NumericalData/PROBA2/LYRA/Flarelist/PT24H
+    https://spase-metadata.org/ESA/NumericalData/PROBA2/LYRA/Flarelist/PT24H
 
 Navigate to that URL with a browser, the click "Edit" to load the description into the SPASE Metadata editor.
 
